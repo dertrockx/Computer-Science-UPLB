@@ -4,6 +4,9 @@
 # Contribution
 * If you have any suggestion you can reach me through my email <b>ntfkuser@protonmail.com</b>
 
+# Credits
+* I would like to acknowledge [RM Mirandilla](https://www.facebook.com/Areeeeeeeeem) for prodividing me these information.
+
 ## First Semester
 * <span style="font-size: 1em"><b>NOTE that</b></span> <span style="font-size: 1.5em"><b>"\*"</b></span> means the same data as the one placed one cell above.
 
